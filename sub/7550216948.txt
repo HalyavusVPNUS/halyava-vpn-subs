@@ -1,0 +1,4 @@
+# VPN Subscription
+# User: 7550216948
+
+vless://PASTE_YOUR_VLESS_HERE
