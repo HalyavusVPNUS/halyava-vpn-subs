@@ -1,0 +1,33 @@
+name: Update All Subs
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Copy main subscription
+        run: |
+          MAIN_FILE="sub/123456789.txt"
+
+          for file in sub/*.txt; do
+            if [ "$(basename "$file")" != "123456789.txt" ]; then
+              cp "$MAIN_FILE" "$file"
+            fi
+          done
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
+          git add .
+
+          git diff --cached --quiet || git commit -m "Update all subscriptions"
+
+          git push
