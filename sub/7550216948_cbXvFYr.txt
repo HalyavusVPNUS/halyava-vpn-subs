@@ -1,6 +1,6 @@
 #profile-title: Халява ВПН | SUB 📅
 #profile-update-interval: 2
-#subscription-userinfo: expire=1782662770; total=10995116277760; used=0
+#subscription-userinfo: expire=1782663161; total=10995116277760; used=0
 #profile-web-page-url: https://t.me/halyava_vpnx
 #announce: Твой ID: 7550216948 | Активна до 28.06.2026 ✅
 
