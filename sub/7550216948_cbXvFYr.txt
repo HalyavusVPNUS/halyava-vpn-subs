@@ -1,9 +1,0 @@
-#profile-title: Халява ВПН | ИСТЕКЛА ❌
-#profile-update-interval: 2
-#subscription-userinfo: expire=1782663161; total=10995116277760; used=10995116277760
-#profile-web-page-url: https://t.me/halyava_vpnx
-#announce: ❌ Твоя подписка истекла! Зайди в бота для продления.
-
-vless://fake-uuid@1.1.1.1:443?security=reality&sni=fake.com#❌_ПОДПИСКА_ИСТЕКЛА
-vless://fake-uuid@1.1.1.1:443?security=reality&sni=fake.com#⚠️_ПРОДЛИТЕ_ПОДПИСКУ
-vless://fake-uuid@1.1.1.1:443?security=reality&sni=fake.com#🤖_В_БОТЕ
