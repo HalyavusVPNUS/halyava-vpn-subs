@@ -3,8 +3,8 @@
     "suffix": "7D6wcDo",
     "username": "matrosyak",
     "created_at": 1782247772,
-    "expired": false,
-    "expire_at": 1782334172,
+    "expired": true,
+    "expire_at": 1782247772,
     "banned": false
   }
 }
