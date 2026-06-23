@@ -1,6 +1,6 @@
 #profile-title: Халява ВПН | ИСТЕКЛА ❌
 #profile-update-interval: 2
-#subscription-userinfo: expire=1782663941; total=10995116277760; used=10995116277760
+#subscription-userinfo: expire=1782664017; total=10995116277760; used=10995116277760
 #profile-web-page-url: https://t.me/halyava_vpnx
 #announce: ❌ Твоя подписка истекла! Зайди в бота для продления.
 
