@@ -1,9 +1,8 @@
-#profile-title: Халява ВПН | SUB 📅
+#profile-title: Халява ВПН | БАН ⛔️
 #profile-update-interval: 2
-#subscription-userinfo: expire=1782334944; total=10995116277760; used=0
+#subscription-userinfo: total=10995116277760; used=10995116277760
 #profile-web-page-url: https://t.me/halyava_vpnx
-#announce: Твой ID: 7550216948 | Активна до 24.06.2026 ✅
+#announce: ⛔️ Ваша подписка ЗАБЛОКИРОВАНА за нарушение правил сервиса.
 
-#profile-web-page-url: https://t.me/halyava_vpnx
-vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@144.31.219.56:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=cdn2.swaginozip.fun&pbk=EIlnBMyH--EIasnzGPJAAFSP5WM_4FNU4ktFUQI0O00&sid=a13edee689fca1da#🇧🇪 Бельгия #1
-vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@144.31.219.56:443?type=xhttp&host=premium.click-connect.online&path=/api/v2/sync/&mode=auto&security=tls&sni=premium.click-connect.online&fp=firefox&allowInsecure=0#🇧🇪 Бельгия #2
+vless://fake-uuid@1.1.1.1:443?security=reality&sni=fake.com#ВЫ_БЫЛИ_ЗАБАНЕНЫ
+vless://fake-uuid@1.1.1.1:443?security=reality&sni=fake.com#ЗА_НАРУШЕНИЕ_ПРАВИЛА_СЕРВИСА
