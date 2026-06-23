@@ -5,7 +5,7 @@
     "created_at": 1782248544,
     "expired": false,
     "expire_at": 1782334944,
-    "banned": false,
-    "ban_reason": ""
+    "banned": true,
+    "ban_reason": "\u043c\u043d\u0435 \u0437\u0430\u0445\u043e\u0442\u0435\u043b\u043e\u0441\u044c \u043f\u0440\u043e\u0441\u0442 :)"
   }
 }
